@@ -16,6 +16,5 @@ Each training and test example is assigned to one of the following labels:
 | 9 | Ankle boot |
 
 <p align="center">
-  <img src="ImageClsses.jpg">
-  
+  <img src="ImageClasses.jpg">
 </p>
